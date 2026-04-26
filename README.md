@@ -49,8 +49,15 @@ NumPy-based Python project to analyze and visualize daily temperature trends.
 
 ## :briefcase: Internship Experience
 
-- **Internship 1** â€” [Add Company Name] | [Add Role] | [Add Duration]
-- **Internship 2** â€” [Add Company Name] | [Add Role] | [Add Duration]
+**Data Analyst Intern** | [Company : Affinity Automation] | [Duration : june 2025-july 2025]  
+- Built Excel dashboards and advanced reports to track daily business performance
+- Created professional data presentations for reporting and decision making
+- Worked with real business data â€” cleaning, organizing, and visualizing insights
+
+**AI Tools & Development Intern** | [Company Name : Gadget Dash] | [Duration : January 2026- February2026]  
+- Built AI-powered applications including Google Forms automation, Student Attendance Management System, and an AI Interviewer
+- Used Claude AI, ChatGPT, Cursor AI, and GitHub Copilot for development
+- Collaborated in a team using Git & GitHub for version control and project management
 
 ---
 
