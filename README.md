@@ -2,7 +2,7 @@
 
 :mortar_board: 2nd Year student | **Artificial Intelligence & Data Science** | Pune, Maharashtra
 
-I'm a passionate AI & Data Science student actively building real-world ML projects and growing toward a career in Machine Learning and AI Research. I believe in learning deeply â€” not just widely.
+I'm a passionate AI & Data Science student actively building real-world ML projects and growing toward a career in Machine Learning and AI Research. I believe in learning deeply ” not just widely.
 
 ---
 
