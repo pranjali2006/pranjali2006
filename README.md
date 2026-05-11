@@ -10,7 +10,7 @@ I'm a passionate AI & Data Science student actively building real-world ML proje
 
 - :telescope: Currently learning: **Machine Learning algorithms & model deployment**
 - :bulb: Exploring: Deep Learning, NLP, and AI Research concepts
-- :mag: I enjoy: Finding patterns in data and turning them into meaningful insights
+- :mag: I enjoy: Finding patterns in data deep researching and turning them into meaningful insights
 - :round_pushpin: Based in: Pune, India
 - :mailbox: Reach me at: [LinkedIn](https://www.linkedin.com/in/pranjali-yewale-841404332)
 
@@ -18,7 +18,7 @@ I'm a passionate AI & Data Science student actively building real-world ML proje
 
 ## :hammer_and_wrench: Skills & Tools
 
-**Languages:** Python, SQL, PHP, HTML  
+**Languages:** Python, SQL, HTML  
 **ML & Data:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
 **Data Analysis:** Exploratory Data Analysis (EDA), Feature Engineering, Data Cleaning, Statistical Analysis  
 **BI & Visualization:** Power BI, Excel, Data Visualization  
