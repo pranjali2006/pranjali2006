@@ -51,10 +51,13 @@
 
 ---
 
-## 📊 GitHub Analytics
+
+## 📊 GitHub Summary
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjali2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Total_Contributions-82+_in_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Top_Languages-Python_|_SQL_|_Jupyter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Machine_Learning_Pipelines-8A2BE2?style=for-the-badge" />
 </div>
 ---
 
