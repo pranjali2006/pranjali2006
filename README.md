@@ -54,10 +54,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjali2006&show_icons=true&theme=tokyonight&hide_border=true" alt="Pranjali's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjali2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjali2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 ## 🌐 Connect With Me
