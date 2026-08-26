@@ -17,9 +17,9 @@
 
 ## 📂 Featured Machine Learning & Analytics Projects
 
-### 🚀 [NASA Kepler / RPL Exoplanet Classifier](https://github.com/pranjali2006/Nasa_rpl_ml_project)
+### 🚀 [NASA  RUL predictive maintenance model ](https://github.com/pranjali2006/Nasa_rpl_ml_project)
 * **Stack:** `Python` `Scikit-Learn` `Pandas` `Classification` `Astrophysics Data`
-* End-to-end ML workflow analyzing NASA planetary and astrophysical observation data.
+* End-to-end ML workflow analyzing NASA turbofan engine remaining useful life using the available engine and sensors data.
 * Implemented structured data preprocessing, exploratory feature analysis, and multi-model classification benchmarks.
 
 ### 📧 [Email Spam Detection Pipeline](https://github.com/pranjali2006/email_spam_detection_project)
