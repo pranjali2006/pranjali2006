@@ -1,79 +1,71 @@
-# Hi, I'm Pranjali Yewale :wave:
+# Hi, I'm Pranjali Yewale 👋
 
-:mortar_board: 2nd Year student | **Artificial Intelligence & Data Science** | Pune, Maharashtra
-
-I'm a passionate AI & Data Science student actively building real-world ML projects and growing toward a career in Machine Learning and AI Research. I believe in learning deeply ” not just widely.
-
----
-
-## :rocket: About Me
-
-- :telescope: Currently learning: **Machine Learning algorithms & model deployment**
-- :bulb: Exploring: Deep Learning, NLP, and AI Research concepts
-- :mag: I enjoy: Finding patterns in data deep researching and turning them into meaningful insights
-- :round_pushpin: Based in: Pune, India
-- :mailbox: Reach me at: [LinkedIn](https://www.linkedin.com/in/pranjali-yewale-841404332)
+🎓 **B.Tech in Artificial Intelligence & Data Science (9.63 CGPA)** | Pune, India  
+💼 **Data Analyst Intern @ DASP Digital** | Former AI Intern @ Gadget Dash  
+🚀 Focusing on reproducible Machine Learning pipelines, statistical feature engineering, and robust model evaluation with Python, SQL, and Scikit-Learn.
 
 ---
 
-## :hammer_and_wrench: Skills & Tools
+## 🛠️ Technical Stack & Skills
 
-**Languages:** Python, SQL, HTML  
-**ML & Data:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-**Data Analysis:** Exploratory Data Analysis (EDA), Feature Engineering, Data Cleaning, Statistical Analysis  
-**BI & Visualization:** Power BI, Excel, Data Visualization  
-**Tools:** Jupyter Notebook, VS Code, Git & GitHub  
-**Concepts:** Machine Learning, Data Analysis, EDA, Classification, Regression, Clustering
+* **Languages & Core:** Python, SQL (MySQL / PostgreSQL), NumPy, Pandas
+* **Machine Learning & Modeling:** Scikit-Learn (Pipelines, ColumnTransformer, Ensembles, SVM, Tree Models), Classification & Regression, Model Evaluation & Metrics
+* **Data Analytics & BI:** Exploratory Data Analysis (EDA), Statistical Feature Engineering, Power BI, Excel Advanced Reporting
+* **Tools & Deployment:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Streamlit
 
 ---
 
-## :open_file_folder: Featured Projects
+## 📂 Featured Machine Learning & Analytics Projects
 
-### :heartbeat: [Heart Disease Prediction ML](https://github.com/pranjali2006/heart_disease_prediction_ml)
-End-to-end ML classification project to predict heart disease using patient health data.  
-`Python` `Scikit-learn` `EDA` `Classification`
+### 🚀 [NASA Kepler / RPL Exoplanet Classifier](https://github.com/pranjali2006/Nasa_rpl_ml_project)
+* **Stack:** `Python` `Scikit-Learn` `Pandas` `Classification` `Astrophysics Data`
+* End-to-end ML workflow analyzing NASA planetary and astrophysical observation data.
+* Implemented structured data preprocessing, exploratory feature analysis, and multi-model classification benchmarks.
 
-### :credit_card: [Credit Card Fraud Detection](https://github.com/pranjali2006/credit_card_fraud_detection)
-Detecting fraudulent transactions using ML techniques on imbalanced datasets.  
-`Python` `Scikit-learn` `Pandas` `Imbalanced Data`
+### 📧 [Email Spam Detection Pipeline](https://github.com/pranjali2006/email_spam_detection_project)
+* **Stack:** `Python` `Scikit-Learn` `NLP Feature Extraction` `Classification`
+* Text preprocessing and classification pipeline utilizing vectorized text features (TF-IDF/CountVectorizer) and Naive Bayes/Ensemble models to identify spam messages.
 
-### :car: [Road Accident Analysis](https://github.com/pranjali2006/road_accident_analysis)
-Comprehensive data analysis using Python, SQL & Power BI to uncover accident patterns.  
-`Python` `SQL` `Power BI` `Data Visualization`
+### 💳 [Credit Card Fraud Detection](https://github.com/pranjali2006/credit_card_fraud_detection)
+* **Stack:** `Python` `Scikit-Learn` `Imbalanced Data` `Precision-Recall`
+* Anomaly and fraud detection workflow designed specifically for highly imbalanced transactional datasets, focusing on precision-recall trade-offs.
 
-### :thermometer: [Daily Temperature Analyzer](https://github.com/pranjali2006/daily-temperature-analyzer)
-NumPy-based Python project to analyze and visualize daily temperature trends.  
-`Python` `NumPy` `Jupyter Notebook`
-
----
-
-## :briefcase: Internship Experience
-
-**Data Analyst Intern** | [Company : Affinity Automation] | [Duration : june 2025-july 2025]  
-- Built Excel dashboards and advanced reports to track daily business performance
-- Created professional data presentations for reporting and decision making
-- Worked with real business data â€” cleaning, organizing, and visualizing insights
-
-**AI Tools & Development Intern** | [Company Name : Gadget Dash] | [Duration : January 2026- February2026]  
-- Built AI-powered applications including Google Forms automation, Student Attendance Management System, and an AI Interviewer
-- Used Claude AI, ChatGPT, Cursor AI, and GitHub Copilot for development
-- Collaborated in a team using Git & GitHub for version control and project management
+### 📊 [Road Accident Pattern Analysis](https://github.com/pranjali2006/road_accident_analysis)
+* **Stack:** `Python` `SQL` `Power BI` `Data Visualization`
+* Multi-source analytical pipeline uncovering accident severity patterns, utilizing SQL aggregations and an interactive Power BI dashboard.
 
 ---
 
-## :bar_chart: GitHub Stats
+## 💼 Experience
 
-![Pranjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjali2006&show_icons=true&theme=tokyonight&hide_border=true)
+* **Data Analyst Intern** — **DASP Digital Pvt. Ltd.** *(July 2026 – Present)*
+  * Engineering automated data extraction and aggregation queries using SQL and Python.
+  * Building Power BI dashboards and reports to track operational KPIs.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjali2006&layout=compact&theme=tokyonight&hide_border=true)
+* **AI Tools & Development Intern** — **Gadget Dash** *(Jan 2026 – Feb 2026)*
+  * Built automation workflows and AI applications (Student Attendance System, AI Interviewer workflows).
+  * Collaborated in agile git-based version control workflows.
+
+* **Data Analyst Intern** — **Affinity Automation** *(June 2025 – July 2025)*
+  * Developed business performance reports and operational Excel dashboards.
 
 ---
 
-## :globe_with_meridians: Connect With Me
+## 📊 GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjali%20Yewale-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranjali-yewale-841404332)
-[![GitHub](https://img.shields.io/badge/GitHub-pranjali2006-black?style=flat&logo=github)](https://github.com/pranjali2006)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjali2006&show_icons=true&theme=tokyonight&hide_border=true" alt="Pranjali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjali2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-*"Learning is not a destination. It's a direction."* :seedling:
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjali%20Yewale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjali-yewale)
+[![GitHub](https://img.shields.io/badge/GitHub-pranjali2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjali2006)
+[![Email](https://img.shields.io/badge/Email-yewalepranjali%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yewalepranjali@gmail.com)
+
+---
+
+*"Building reproducible ML pipelines and data-driven intelligence."* 🌱
