@@ -8,7 +8,7 @@ I am an Artificial Intelligence & Data Science student building practical projec
 
 My GitHub documents my learning journey — from implementing individual Machine Learning algorithms and understanding model evaluation to building complete ML applications, dashboards, data pipelines, and real-world intelligence projects.
 
-Currently, I am strengthening my **Machine Learning, Data Science, SQL, statistical analysis, feature engineering, and model evaluation** skills while exploring advanced AI/ML concepts and **Cypress**.
+Currently, I am strengthening my **Machine Learning, Data Science, SQL, statistical analysis, feature engineering, and model evaluation** skills while exploring advanced AI/ML concepts.
 
 🌱 **Learning → Building → Evaluating → Improving**
 
