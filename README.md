@@ -1,4 +1,4 @@
-# Hi, I'm Pranjali Yewale 👋
+# Hi, I'm Pranjali Pradeep Yewale 👋
 
 🎓 **B.Tech Artificial Intelligence & Data Science** | India
 💼 **Data Analyst Intern @ DASP Digital**
@@ -409,11 +409,6 @@ I am continuously expanding my technical knowledge.
 * NLP fundamentals
 * AI/ML research concepts
 * Advanced AI applications
-
-### 🧪 Testing & Development
-
-* **Cypress**
-* Improving software testing and development practices
 
 ### 📊 Data Science
 
