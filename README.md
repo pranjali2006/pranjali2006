@@ -1,435 +1,299 @@
-# Hi, I'm Pranjali Pradeep Yewale 👋
+# PRANJALI PRADEEP YEWALE
 
-🎓 **B.Tech Artificial Intelligence & Data Science** | India
-💼 **Data Analyst Intern @ DASP Digital**
-🤖 Aspiring **Data Scientist | ML Engineer | AI/ML Researcher**
+### AI/ML Engineer | Data Scientist | Artificial Intelligence & Data Science
 
-I am an Artificial Intelligence & Data Science student building practical projects across **Machine Learning, Data Science, Data Analytics, and AI**.
+Building practical solutions with Machine Learning, Data Science, and AI.
 
-My GitHub documents my learning journey — from implementing individual Machine Learning algorithms and understanding model evaluation to building complete ML applications, dashboards, data pipelines, and real-world intelligence projects.
+I am a B.Tech Artificial Intelligence and Data Science undergraduate interested in developing intelligent, data-driven solutions. I enjoy understanding the mathematics behind algorithms, experimenting with models, analysing real-world datasets, and translating technical concepts into practical applications.
 
-Currently, I am strengthening my **Machine Learning, Data Science, SQL, statistical analysis, feature engineering, and model evaluation** skills while exploring advanced AI/ML concepts.
+- 🎓 B.Tech — Artificial Intelligence & Data Science
+- 🤖 Focus Areas: Machine Learning, NLP, Deep Learning and AI
+- 📊 Interested in Data Science, Predictive Analytics and Statistical Modelling
+- 💻 Working with Python, SQL and Machine Learning frameworks
+- 🔬 Interested in applied AI/ML research and engineering
+- 🎯 Preparing for GATE DA 2027
 
-🌱 **Learning → Building → Evaluating → Improving**
-
----
-
-# 🛠️ Technical Skills
-
-### 💻 Programming & Data
-
-`Python` `SQL` `Pandas` `NumPy`
-
-### 🤖 Machine Learning
-
-`Scikit-Learn` `Regression` `Classification` `Decision Trees` `Random Forest` `SVM` `KNN` `Naive Bayes` `Ensemble Learning`
-
-### 📊 Data Science & Analytics
-
-`EDA` `Data Cleaning` `Feature Engineering` `Feature Selection` `Statistical Analysis` `Model Evaluation` `Cross-Validation`
-
-### 📈 Visualization & BI
-
-`Power BI` `Excel` `Matplotlib` `Seaborn` `Plotly`
-
-### 🚀 Tools & Deployment
-
-`Git` `GitHub` `Jupyter Notebook` `Google Colab` `VS Code` `Streamlit`
+[GitHub](https://github.com/pranjali2006) · [LinkedIn](https://www.linkedin.com/in/pranjali-yewale) · [Email](mailto:yewalepranjali@gmail.com)
 
 ---
 
-# 🧠 Machine Learning Journey
+## TECHNICAL TOOLKIT
 
-I am systematically learning and implementing Machine Learning algorithms through my **[Machine Learning Algorithms Journey](https://github.com/pranjali2006/machine_learning_algorithms)** repository.
-
-### Algorithms & Concepts Covered
-
-* Linear Regression
-* Logistic Regression
-* Decision Tree
-* Random Forest
-* K-Nearest Neighbors (KNN)
-* Support Vector Machine (SVM)
-* Naive Bayes
-* Ensemble Learning
-
-  * Voting
-  * Bagging
-  * Boosting
-  * AdaBoost
-  * XGBoost
-  * Stacking
-  * Blending
-* Hyperparameter Tuning
-
-  * GridSearchCV
-  * RandomizedSearchCV
-* Cross-Validation
-* Feature Engineering
-* Data Preprocessing
-* Scikit-learn Pipelines
-* Model Evaluation
-
-  * Accuracy
-  * Precision
-  * Recall
-  * F1 Score
-  * Confusion Matrix
-  * ROC-AUC
-  * MAE
-  * RMSE
-  * R²
-
-My goal is not only to learn algorithms individually, but to understand **when to use them, how to evaluate them, and how they fit into an end-to-end Machine Learning workflow.**
+| Category | Technologies |
+|---|---|
+| Programming | Python, SQL |
+| Data Manipulation | Pandas, NumPy |
+| Machine Learning | Scikit-learn, Regression, Classification, Ensemble Learning |
+| Data Analysis | EDA, Data Cleaning, Feature Engineering, Statistical Analysis |
+| Visualisation | Matplotlib, Seaborn, Plotly |
+| Business Intelligence | Power BI, Excel |
+| Development Tools | Git, GitHub, Jupyter Notebook, Google Colab, VS Code |
+| Application Development | Streamlit |
 
 ---
 
-# ⭐ Featured Projects
+## SELECTED PROJECTS
 
-These are the projects that best represent my current Machine Learning and Data Science skills.
+Projects demonstrating my work across Machine Learning, NLP and Data Analytics.
 
-## 🚀 1. NASA C-MAPSS — Remaining Useful Life Prediction
+### 01. Online Purchase Intention Prediction
 
-🔗 **[View Repository](https://github.com/pranjali2006/Nasa_rpl_ml_project)**
+**Machine Learning · Classification · Customer Behaviour Analytics**
 
-An end-to-end predictive maintenance project using the **NASA C-MAPSS FD001 dataset** to estimate the Remaining Useful Life (RUL) of turbofan engines.
+[View Repository →](YOUR_ONLINE_PURCHASE_REPOSITORY_URL)
 
-### What I worked on
+A machine learning project focused on predicting whether an online visitor is likely to make a purchase based on browsing and session-related behaviour.
 
-* Processed chronological engine sensor data
-* Performed exploratory data analysis
-* Created temporal and degradation-based features
-* Applied feature selection and redundancy filtering
-* Built and compared regression models
-* Applied hyperparameter tuning
-* Developed a leakage-safe Scikit-learn pipeline
-* Evaluated models using MAE, RMSE and R²
-* Saved the trained ML pipeline
-* Built a Streamlit application for prediction
+**Technical Highlights**
+- Exploratory Data Analysis and customer behaviour analysis.
+- Data preprocessing and feature preparation.
+- Comparison of multiple classification models.
+- Stratified data splitting and leakage prevention.
+- Evaluation using classification metrics.
+- Decision-threshold experimentation to improve prediction decisions.
 
-**Model:** Gradient Boosting Regressor
-**R²:** ~0.798
+**Tech Stack:** Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-Learn` `Feature Engineering` `Gradient Boosting` `Streamlit`
+### 02. Heart Disease Prediction
 
----
+**Machine Learning · Healthcare Analytics · Classification**
 
-## ❤️ 2. Heart Disease Prediction
+[View Repository →](https://github.com/pranjali2006/heart_disease_prediction_ml)
 
-🔗 **[View Repository](https://github.com/pranjali2006/heart_disease_prediction_ml)**
+A classification project that predicts the likelihood of heart disease using patient-related features.
 
-A Machine Learning classification project that predicts the likelihood of heart disease based on patient-related features.
+**Technical Highlights**
+- Data cleaning and preprocessing.
+- Missing-value and duplicate analysis.
+- Exploratory and correlation analysis.
+- Outlier investigation.
+- Categorical encoding and feature scaling.
+- Logistic Regression and Decision Tree implementation.
+- Model comparison and classification evaluation.
+- Streamlit application for prediction.
 
-### What I worked on
+**Final Model:** Decision Tree  
+**Reported Accuracy:** 85.86%
 
-* Data cleaning and preprocessing
-* Missing-value and duplicate analysis
-* Exploratory Data Analysis
-* Outlier analysis
-* Correlation analysis
-* Categorical encoding
-* Feature scaling
-* Logistic Regression
-* Decision Tree Classification
-* Model comparison
-* Confusion matrix and classification metrics
-* Streamlit deployment
+**Tech Stack:** Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Streamlit
 
-**Final Model:** Decision Tree
-**Accuracy:** 85.86%
+### 03. Email Spam Detection
 
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-Learn` `EDA` `Classification` `Streamlit`
+**Natural Language Processing · Machine Learning · Text Classification**
 
----
+[View Repository →](https://github.com/pranjali2006/email_spam_detection_project)
 
-## 📧 3. Email Spam Detection
+A text-classification application that identifies email messages as Spam or Ham using Natural Language Processing and Machine Learning.
 
-🔗 **[View Repository](https://github.com/pranjali2006/email_spam_detection_project)**
+**Technical Highlights**
+- Text preprocessing and cleaning.
+- Lowercasing and punctuation handling.
+- Stopword removal.
+- TF-IDF feature extraction.
+- Logistic Regression classification.
+- Scikit-learn Pipeline.
+- Prediction probabilities.
+- Model serialization and Streamlit application.
 
-A Machine Learning text-classification project that classifies email messages as **Spam or Ham**.
+**Tech Stack:** Python · Pandas · Scikit-learn · NLTK · TF-IDF · Logistic Regression · Streamlit
 
-### What I worked on
+### 04. Road Accident Analysis
 
-* Text preprocessing
-* Lowercasing and punctuation handling
-* Stopword removal
-* TF-IDF feature extraction
-* Logistic Regression classification
-* Scikit-learn Pipeline
-* Prediction probabilities
-* Model serialization
-* Streamlit deployment
+**Data Analytics · SQL · Business Intelligence**
 
-**Tech:** `Python` `Pandas` `Scikit-Learn` `NLTK` `TF-IDF` `Logistic Regression` `Streamlit`
+[View Repository →](https://github.com/pranjali2006/road_accident_analysis)
 
----
+A data analytics project focused on identifying patterns and insights from road accident datasets.
 
-## 💳 4. Credit Card Fraud — Exploratory Data Analysis
+**Technical Highlights**
+- Data cleaning and preparation.
+- Exploratory Data Analysis.
+- SQL queries and aggregations.
+- Accident pattern and trend analysis.
+- Data visualisation.
+- Power BI dashboard development.
+- Transforming raw data into meaningful insights.
 
-🔗 **[View Repository](https://github.com/pranjali2006/credit_card_fraud_detection)**
-
-An exploratory data analysis project focused on understanding patterns in credit card transaction data and identifying characteristics associated with fraudulent transactions.
-
-### What I worked on
-
-* Data cleaning
-* Exploratory Data Analysis
-* Class imbalance analysis
-* Distribution analysis
-* Outlier investigation
-* Transaction amount analysis
-* Correlation analysis
-* Fraud vs non-fraud comparison
-* Data visualization
-
-**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook`
+**Tech Stack:** Python · SQL · Pandas · Power BI · Data Visualisation
 
 ---
 
-## 🚗 5. Road Accident Analysis
+## ADDITIONAL PROJECTS
 
-🔗 **[View Repository](https://github.com/pranjali2006/road_accident_analysis)**
+### Credit Card Fraud — Exploratory Data Analysis
 
-A data analytics project focused on identifying patterns and insights from road accident data using Python, SQL and Power BI.
+[View Repository →](https://github.com/pranjali2006/credit_card_fraud_detection)
 
-### What I worked on
+An EDA project investigating transaction patterns and characteristics associated with fraudulent transactions.
 
-* Data cleaning and preparation
-* Exploratory Data Analysis
-* SQL-based analysis and aggregations
-* Accident pattern analysis
-* Data visualization
-* Power BI dashboard development
-* Converting raw accident data into meaningful insights
+- Fraud versus non-fraud comparison.
+- Class imbalance analysis.
+- Transaction amount distributions.
+- Outlier investigation.
+- Correlation analysis and visualisation.
 
-**Tech:** `Python` `SQL` `Power BI` `Pandas` `Data Visualization`
+**Focus:** Exploratory Data Analysis · Imbalanced Data · Transaction Analytics
 
----
+### Bike Sharing Demand Prediction
 
-# 🌾 Real-World Data & AI Projects
+A regression project exploring hourly bike rental demand through calendar, time, and weather-related features.
 
-## 🌱 KrushiMitra — Agriculture Intelligence Platform
+- Target variable analysis.
+- Feature selection and correlation analysis.
+- Outlier investigation.
+- Leakage-aware feature preparation.
+- Regression modelling and evaluation.
 
-A technology project focused on providing farmers with access to agriculture-related information and services through a unified platform.
+**Focus:** Regression · Feature Engineering · Predictive Analytics
 
-The project covers:
+### Other Research & Learning Projects
 
-* Crop Advisory
-* Soil Testing
-* Government Schemes
-* Finance & Insurance
-* Buyers Marketplace
-* Farmer Training
-* Agricultural Information
-
-### My contribution
-
-I worked on the **data collection and backend data-processing side**, including:
-
-* Python-based web scraping
-* Structured data extraction
-* Data cleaning and validation
-* Data processing
-* JSON-based data storage
-* Excel datasets
-* Reusable data pipelines
-* Organizing agricultural information across Maharashtra
-
-**Tech:** `Python` `Web Scraping` `Data Processing` `JSON` `Excel` `Data Pipelines`
+- [NASA C-MAPSS — Remaining Useful Life Prediction](https://github.com/pranjali2006/Nasa_rpl_ml_project)
+- [Decision Tree Paper Review](https://github.com/pranjali2006/decision-tree-paper-review)
+- [Daily Temperature Analyzer](https://github.com/pranjali2006/daily-temperature-analyzer)
+- [ML Preprocessing & Feature Engineering](https://github.com/pranjali2006/ML_preprocessing_and_feature_engineering)
+- [Python Web Scraping](https://github.com/pranjali2006/Web_scrapping)
 
 ---
 
-## 🗺️ Zila Valley — Agriculture Intelligence Platform
+## INDUSTRY EXPERIENCE
 
-A configurable agriculture intelligence platform designed to bring together agricultural information from official and public sources.
-
-The platform focuses on:
-
-* Geography and village information
-* Land and agriculture
-* Irrigation
-* Crops and production
-* Market information
-* Weather
-* Soil
-* Agricultural services
-* Government schemes and resources
-
-### My contribution
-
-I worked on the **data engineering and research pipeline**, including:
-
-* Identifying official/public data sources
-* Python-based data collection and scraping
-* Data validation
-* Data cleaning
-* Data standardization
-* JSON-based intermediate storage
-* Excel-based structured datasets
-* Configuration-driven processing
-* Reusable data pipelines
-* Preparing dashboard-ready datasets
-
-The goal was to create a **reusable and configurable data workflow** rather than a hardcoded solution for a single location.
-
-**Tech:** `Python` `Web Scraping` `Data Processing` `JSON` `Excel` `Data Pipelines`
-
----
-
-## 📊 Zila Valley — Economic Dashboard
-
-A data analytics project focused on understanding **agricultural market and economic conditions** through structured data and dashboard-ready datasets.
-
-The project brings together information related to:
-
-* Agricultural markets
-* Commodity prices
-* Market arrivals
-* Economic indicators
-* Market-level comparisons
-* Location-based agricultural insights
-
-### My contribution
-
-I worked on:
-
-* Data research and source identification
-* Data extraction
-* Data cleaning and validation
-* Python-based data processing
-* Structured data storage
-* Researching official/public datasets
-* Preparing datasets for dashboard visualization
-* Supporting the development of the economic intelligence dashboard
-
-**Tech:** `Python` `Data Scraping` `Data Processing` `JSON` `Excel` `Power BI`
-
----
-
-# 💼 Experience
-
-## 📊 Data Analyst Intern — DASP Digital Pvt. Ltd.
-
+### Data Analyst Intern — DASP Digital Pvt. Ltd.
 **July 2026 – Present**
 
-Working on real-world data analytics and data intelligence projects involving data collection, processing, validation, analysis and visualization.
+Working on data collection, processing, validation, and analytics workflows for real-world data intelligence projects.
 
-### Key areas of work
+**Areas of Contribution**
+- Python-based web scraping and structured data extraction.
+- Data cleaning, validation and standardisation.
+- JSON and Excel-based structured datasets.
+- Research and identification of public data sources.
+- Reusable and configuration-driven data workflows.
+- Preparing datasets for analytics and dashboards.
+- Contributions to KrushiMitra and Zila Valley projects.
 
-* Python-based data extraction and web scraping
-* Data cleaning and validation
-* Structured data processing
-* SQL-based analysis
-* Power BI dashboards
-* Excel reporting
-* Research and analysis of datasets and documents
-* Preparing structured datasets for analytics
-* Supporting agriculture intelligence and economic dashboard projects
-* Team collaboration and project coordination
+**Technologies:** Python · SQL · Web Scraping · JSON · Excel · Power BI
 
-**Technologies:** `Python` `SQL` `Power BI` `Excel` `Web Scraping` `JSON`
-
----
-
-## 🤖 AI Tools & Development Intern — Gadget Dash
-
+### AI Tools & Development Intern — Gadget Dash
 **January 2026 – February 2026**
 
-Worked on AI-oriented application and automation projects while gaining practical experience with development workflows and Git-based collaboration.
+Contributed to application development and AI-oriented workflows.
 
-### Key areas of work
+**Areas of Contribution**
+- AI-powered application workflows.
+- Automation-oriented development tasks.
+- AI Interviewer workflow.
+- Student Attendance System.
+- Git and GitHub-based collaboration.
 
-* Worked on AI-powered application workflows
-* Contributed to automation-oriented projects
-* Worked on an AI Interviewer workflow
-* Contributed to a Student Attendance System
-* Used Git and GitHub-based development workflows
-* Explored practical applications of AI tools
+**Focus:** AI Tools · Automation · Python · Application Development · Git
 
-**Focus:** `AI Tools` `Automation` `Python` `Git` `Application Development`
-
----
-
-## 📈 Data Analyst Intern — Affinity Automation
-
+### Data Analyst Intern — Affinity Automation
 **June 2025 – July 2025**
 
-Worked on data analysis and business reporting tasks with a focus on organizing operational information into useful reports.
+Gained practical experience in data preparation, analysis and business reporting.
 
-### Key areas of work
+**Areas of Contribution**
+- Data preparation and analysis.
+- Excel-based reporting.
+- Operational information organisation.
+- Business-oriented reports and dashboards.
 
-* Data preparation and analysis
-* Excel-based reporting
-* Business performance analysis
-* Operational dashboards and reports
-* Converting raw information into structured insights
-
-**Technologies:** `Excel` `Data Analysis` `Reporting`
+**Focus:** Data Analysis · Excel · Reporting
 
 ---
 
-# 📚 Other Learning & Development Projects
+## PROFESSIONAL PROJECT CONTRIBUTIONS
 
-Apart from my featured projects, my GitHub contains additional projects and repositories documenting my learning and development journey.
+### KrushiMitra — Agriculture Intelligence Platform
 
-### 🤖 Machine Learning & Data Science
+Contributed to the data collection and backend data-processing side of an agriculture-focused information platform.
 
-* **[Machine Learning Algorithms](https://github.com/pranjali2006/machine_learning_algorithms)** — Practical implementation and study of Machine Learning algorithms
-* **[ML Preprocessing & Feature Engineering](https://github.com/pranjali2006/ML_preprocessing_and_feature_engineering)** — Data preprocessing and feature engineering practice
-* **[Decision Tree Paper Review](https://github.com/pranjali2006/decision-tree-paper-review)** — Research-oriented learning around Decision Trees
-* **[Daily Temperature Analyzer](https://github.com/pranjali2006/daily-temperature-analyzer)** — NumPy-based data analysis
-* **[Web Scraping](https://github.com/pranjali2006/Web_scrapping)** — Python-based web scraping practice
+- Python-based web scraping.
+- Structured agricultural data extraction.
+- Data cleaning and validation.
+- JSON and Excel-based data organisation.
+- Reusable data pipelines.
+- Organising agricultural information across Maharashtra.
 
-### 💻 Other Development Projects
+### Zila Valley — Agriculture Intelligence Platform
 
-* **[AI/ML Portfolio](https://github.com/pranjali2006/AI_ML_portfolio)**
-* **[Railway Reservation System](https://github.com/pranjali2006/Railway_Reservation_System)**
-* **[YouTube Clone](https://github.com/pranjali2006/youtube-clone)**
-* **[Registration Form](https://github.com/pranjali2006/registration_form)**
-* **[Form](https://github.com/pranjali2006/form)**
+Contributed to research and data engineering workflows designed to organise agricultural information from public and official sources.
 
----
+- Identifying relevant data sources.
+- Data extraction, validation and standardisation.
+- Geography, agriculture, irrigation and market-related datasets.
+- JSON-based intermediate storage.
+- Configuration-driven processing.
+- Reusable data pipelines.
+- Dashboard-ready data preparation.
 
-# 📖 Currently Learning
+### Zila Valley — Economic Dashboard
 
-I am continuously expanding my technical knowledge.
+Contributed to data research and processing for an agricultural market and economic intelligence dashboard.
 
-### 🧠 Machine Learning
-
-* Advanced Machine Learning
-* Model optimization
-* Advanced model evaluation
-* Feature engineering
-* Cross-validation
-* ML pipelines
-* Explainable ML
-
-### 🤖 AI
-
-* NLP fundamentals
-* AI/ML research concepts
-* Advanced AI applications
-
-### 📊 Data Science
-
-* SQL
-* Statistics
-* Data visualization
-* Business analytics
+- Agricultural market and commodity information.
+- Market arrivals and economic indicators.
+- Data extraction and validation.
+- Structured data preparation.
+- Dashboard-oriented datasets.
 
 ---
 
-# 📊 GitHub Activity
+## MACHINE LEARNING IMPLEMENTATION JOURNEY
+
+[Explore My Machine Learning Algorithms Repository →](https://github.com/pranjali2006/machine_learning_algorithms)
+
+A dedicated repository documenting my learning and implementation of Machine Learning algorithms and workflows.
+
+**Areas Covered**
+
+- Regression: Linear Regression, KNN Regression, SVM Regression.
+- Classification: Logistic Regression, Decision Trees, Random Forest, KNN, SVM, Naive Bayes.
+- Ensemble Learning: Voting, Bagging, Boosting, AdaBoost, XGBoost, Stacking and Blending.
+- Clustering: K-Means, Hierarchical Clustering and DBSCAN.
+- Optimisation: GridSearchCV, RandomizedSearchCV and Cross-Validation.
+- Evaluation: Accuracy, Precision, Recall, F1-score, ROC-AUC, MAE, RMSE and R².
+- Workflow: Preprocessing, Feature Engineering and Scikit-learn Pipelines.
+
+My objective is to understand the underlying concepts, identify appropriate use cases, implement algorithms, and evaluate their performance.
+
+---
+
+## CURRENTLY LEARNING
+
+**Deep Learning & Neural Networks**
+- Artificial Neural Networks — implementation and experimentation.
+- Deep Learning fundamentals.
+- CNN and RNN architectures.
+- LSTM networks.
+- Attention mechanisms.
+- Transformers.
+
+**Advanced AI**
+- Large Language Models.
+- Retrieval-Augmented Generation.
+- Practical AI/ML applications.
+
+**Technical Development**
+- Python problem-solving and DSA.
+- SQL and Statistics.
+- Machine Learning model evaluation.
+- GATE DA 2027 preparation.
+
+---
+
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranjali2006&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pranjali2006&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjali2006&layout=compact&theme=transparent&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjali2006&layout=compact&theme=transparent&hide_border=true" height="170" />
 
 </div>
 
-<br>
+### Contribution Streak
 
 <div align="center">
 
@@ -437,38 +301,34 @@ I am continuously expanding my technical knowledge.
 
 </div>
 
-<br>
+### Contribution Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjali2006&theme=github-compact&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjali2006&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-# 🎯 Career Direction
+## CAREER INTERESTS
 
-I am building toward a career in:
+**Machine Learning Engineering · Data Science · Applied AI · AI/ML Research**
 
-**Data Science → Machine Learning → AI/ML Engineering & Research**
+I am focused on building strong technical foundations, developing practical solutions, understanding model behaviour, and continuously improving through experimentation and implementation.
 
-My current focus is on developing strong fundamentals, building practical projects with real-world datasets, understanding model behaviour and evaluation, and gradually progressing toward advanced AI/ML systems.
-
-I believe in learning concepts deeply, implementing them practically, and documenting the journey through projects.
-
-> **Learn deeply. Build practically. Improve continuously. 🚀**
+I value understanding the reasoning behind a solution as much as building the solution itself.
 
 ---
 
-# 🌐 Connect With Me
+## LET'S CONNECT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjali%20Yewale-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pranjali-yewale)
+[![GitHub](https://img.shields.io/badge/GitHub-Pranjali-181717?style=for-the-badge&logo=github)](https://github.com/pranjali2006)
 
-[![GitHub](https://img.shields.io/badge/GitHub-pranjali2006-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pranjali2006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjali%20Yewale-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranjali-yewale)
 
-[![Email](https://img.shields.io/badge/Email-yewalepranjali%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yewalepranjali@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:yewalepranjali@gmail.com)
 
 ---
 
-⭐ **Thanks for visiting my GitHub!**
+*Building knowledge. Applying ideas. Engineering intelligent solutions.*
