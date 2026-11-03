@@ -301,14 +301,10 @@ My objective is to understand the underlying concepts, identify appropriate use 
 
 </div>
 
-### Contribution Activity Graph
 
-<div align="center">
+### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjali2006&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-</div>
-
+[![Pranjali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjali2006&theme=github-compact&hide_border=true)](https://github.com/pranjali2006)
 ---
 
 ## CAREER INTERESTS
